@@ -1,0 +1,19 @@
+# Environment
+.env
+.venv
+venv
+env
+figura
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
